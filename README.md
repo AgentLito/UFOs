@@ -4,7 +4,7 @@ JavaScript, HTML, CSS, Bootstrap
 
 Background
 
-We need webpage and dynamic table are working as intended, but DANA like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
+We needed a webpage and dynamic table that are working as intended, but DANA aims to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
 
 Overview of Project
 
@@ -23,8 +23,9 @@ Brief article and its summary.
 An attention-grabbing header with a refresh page link.
 Visually appealing design of overall presentation of the data.
 
+![Mars-hemisphere_Center_thumb_Custom](https://user-images.githubusercontent.com/91812090/152692850-fcf8b86f-7400-49fc-8238-c22354855075.png)
 
-Image from the header of the webpage.
+
 
 Background
 
@@ -33,16 +34,19 @@ For this project we are using JavaScript as the primary coding language. JavaScr
 Resources
 
 Data Source: JavaScript list data.js
+HTML to build the webpage index.html.
+CSS and Bootstrap to build and style the page style.css
 Software: VS Code and Chrome Developer Tools.
+Chrome Developer Tools to test the code.
 Languages: JavaScript, HTML, CSS and Bootstrap 3
 The table is built by inserting JavaScript into HTML page. app.js.
 HTML to build the webpage index.html.
 CSS and Bootstrap to build and style the page style.css
-Chrome Developer Tools to test the code.
 Dependencies: D3(Data Driven Document)- We can Build a real-world, custom, interactive and beautiful data visualization from scratch using D3.
+
 Results
 
-The raw data from JavaScript array is going displayed in a dynamic table where end-users can filter the data on multiple criteria such as date, city, state, country and shape of UFOs sightings. Here filter input box is suggesting end-user that, how search criteria should be entered with using text value in it. For example, date should be entered in format as in 1/10/2010 – with forward slashes and without extra 0 before day and month. City, state, and country should be entered in lower case.
+The raw data from JavaScript array is going displayed in a dynamic table where end-users can filter the data on multiple criteria such as date, city, state, country and shape of UFOs sightings. Here we filter input box, suggesting end-user that, how search criteria should be entered with using text value in it. For example, date should be entered in format as in 1/10/2010 – with forward slashes and without extra 0 before day and month. City, state, and country should be entered in lower case.
 
 
 
