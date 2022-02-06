@@ -23,7 +23,7 @@ Brief article and its summary.
 An attention-grabbing header with a refresh page link.
 Visually appealing design of overall presentation of the data.
 
-![Mars-hemisphere_Center_thumb_Custom](https://user-images.githubusercontent.com/91812090/152692850-fcf8b86f-7400-49fc-8238-c22354855075.png)
+<Image goes here>
 
 
 
