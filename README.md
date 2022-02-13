@@ -45,7 +45,6 @@ Dependencies: D3(Data Driven Document)- We can Build a real-world, custom, inter
 Results
 
 The raw data from JavaScript array is going displayed in a dynamic table where end-users can filter the data on multiple criteria such as date, city, state, country and shape of UFOs sightings. Here we filter input box, suggesting end-user that, how search criteria should be entered with using text value in it. For example, date should be entered in format as in 1/10/2010 – with forward slashes and without extra 0 before day and month. City, state, and country should be entered in lower case.
-![FilterSearch_Criteria](https://user-images.githubusercontent.com/91812090/153767768-cddcff2c-add7-41b6-bd2f-2d1f842dbeab.png)
 
 
 Dynamic multi-filter.
@@ -80,6 +79,7 @@ Input data.
 By Adding a code that will convert all letters to lower case from user input. For example, no matter which format user used to type “CA” or “Ca” instead of “ca”, the code will still be able to process and find the results.
 Also we can add some functinality that will change the user input to exact keys which will match the data. For example, if user type "st.louis" then it will automatically changed it to St.Louis or "mo" to "MO".
 Adding drop down-menu from the filter.
+
 In addition, to improve upon the user experience we suggest make the filter functionality be changed to drop down menus that populate with the options to limit the data displayed on the dashboard. This would help it be more intuitive and would not require users to be already familiar with the data.
 
 
