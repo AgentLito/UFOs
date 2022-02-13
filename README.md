@@ -46,11 +46,14 @@ Results
 
 The raw data from JavaScript array is going displayed in a dynamic table where end-users can filter the data on multiple criteria such as date, city, state, country and shape of UFOs sightings. Here we filter input box, suggesting end-user that, how search criteria should be entered with using text value in it. For example, date should be entered in format as in 1/10/2010 – with forward slashes and without extra 0 before day and month. City, state, and country should be entered in lower case.
 
+![FilterSearch_Criteria](https://user-images.githubusercontent.com/91812090/153768250-d4945fb0-6f93-4631-a769-590fc9cc9397.png)
+
 
 Dynamic multi-filter.
 
 When user types of criteria in multi-filter and then press enter then table displays only rows that matches the user input. From the picture below we can see only data that has been filtered based on the user input – that is -- State: ca, Shape: triangle and Date: 1/1/2010.
-![FilterSearch_Criteria](https://user-images.githubusercontent.com/91812090/153767908-b19685ed-0b45-4793-8539-f1a4c027f7cb.png)
+![FilteredTable](https://user-images.githubusercontent.com/91812090/153768244-a50918b8-a40e-4e23-a578-eba0c44a8c14.png)
+
 
  
 
